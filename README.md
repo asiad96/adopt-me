@@ -1,1 +1,1 @@
-A pet adpotion react app.
+A pet adoption react app.
